@@ -1,0 +1,26 @@
+body {
+  background: #F2F2F2;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  font-family: Helvetica neue, roboto;
+}
+
+header {
+  margin: 16 0 16 0;
+}
+
+section {
+  /*display: flex;*/
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #bdbdbd;
+  font-weight: 300;
+}
+
+footer {
+  margin: 16 0 16 0;
+}
